@@ -1,0 +1,30 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "API REST para subir nota.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node swagger.js",
+    "dev": "nodemon --ignore swagger-output.json swagger.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrilloCanario/API-REST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrilloCanario/API-REST/issues"
+  },
+  "homepage": "https://github.com/GrilloCanario/API-REST#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "swagger-autogen": "^2.23.7",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
