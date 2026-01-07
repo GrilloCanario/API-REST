@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Forma I: Shii-Cho",
+        "description": "También conocida como el 'Camino del Sarlacc'. La forma básica y original. Movimientos amplios y determinísticos; ideal para enfrentar a grupos de enemigos, pero predecible en duelos."
+    },
+    {
+        "id": 2,
+        "name": "Forma II: Makashi",
+        "description": "También conocida como el 'Camino del Ysalamiri'. Diseñada para el duelo individual. Elegante, precisa y centrada en el juego de pies para desarmar a otros usuarios de sable."
+    },
+    {
+        "id": 3,
+        "name": "Forma III: Soresu",
+        "description": "También conocida como el 'Camino del Mynock'. La defensa definitiva. Utiliza movimientos cortos y eficientes para volverse invulnerable, esperando a que el rival se agote o cometa un error."
+    },
+    {
+        "id": 4,
+        "name": "Forma IV: Ataru",
+        "description": "También conocida como el 'Camino del Halcón-Murciélago'. Estilo acrobático y veloz. Utiliza el cuerpo como arma con saltos y giros asistidos por la Fuerza; requiere mucho espacio y energía."
+    },
+    {
+        "id": 5,
+        "name": "Forma V: Shien / Djem So",
+        "description": "También conocida como el 'Camino del Dragón Krayt'. Se enfoca en la fuerza bruta y el contraataque. Shien se especializa en devolver disparos de bláster, mientras que Djem So domina los duelos físicos."
+    },
+    {
+        "id": 6,
+        "name": "Forma VI: Niman",
+        "description": "También conocida como el 'Camino del Rancor'. El estilo diplomático. Equilibra todas las formas anteriores sin especializarse en ninguna; es la base perfecta para integrar poderes de la Fuerza en el combate."
+    },
+    {
+        "id": 7,
+        "name": "Forma VII: Juyo / Vaapad",
+        "description": "También conocida como el 'Camino del Vornskr'. La más peligrosa y agresiva. Implica movimientos caóticos y canalizar las emociones internas; es la forma más difícil de dominar sin caer en el Lado Oscuro."
+    }
+]

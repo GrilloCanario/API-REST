@@ -21,7 +21,7 @@
         }
       }
     },
-    "/jedis": {
+    "/jedis/": {
       "get": {
         "description": "",
         "responses": {
@@ -39,6 +39,12 @@
             "schema": {
               "type": "object",
               "properties": {
+                "name": {
+                  "example": "any"
+                },
+                "species": {
+                  "example": "any"
+                },
                 "id": {
                   "example": "any"
                 }
@@ -49,6 +55,9 @@
         "responses": {
           "201": {
             "description": "Created"
+          },
+          "400": {
+            "description": "Bad Request"
           }
         }
       }
@@ -67,6 +76,9 @@
         "responses": {
           "200": {
             "description": "OK"
+          },
+          "404": {
+            "description": "Not Found"
           }
         }
       },
@@ -111,6 +123,19 @@
             }
           }
         ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request"
+          }
+        }
+      }
+    },
+    "/stylesForm/": {
+      "get": {
+        "description": "",
         "responses": {
           "200": {
             "description": "OK"

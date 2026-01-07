@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Ahsoka Tano",
+        "species": "Togruta"
+    },
+    {
+        "id": 2,
+        "name": "Luke Skywalker",
+        "species": "Human"
+    },
+    {
+        "id": 3,
+        "name": "Jhuan Vekar Bel’tan",
+        "species": "Human"
+    },
+    {
+        "id": 4,
+        "name": "Andros Alfon Kresh",
+        "species": "Human"
+    }
+]
