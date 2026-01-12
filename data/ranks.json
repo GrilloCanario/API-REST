@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Youngling / Iniciado Jedi"
+    },
+    {
+        "id": 2,
+        "name": "Padawan Jedi"
+    },
+    {
+        "id": 3,
+        "name": "Caballero Jedi"
+    },
+    {
+        "id": 4,
+        "name": "Maestro Jedi"
+    },
+    {
+        "id": 5,
+        "name": "Gran Maestro Jedi"
+    }
+]

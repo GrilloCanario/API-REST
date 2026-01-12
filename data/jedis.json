@@ -3,23 +3,107 @@
         "id": 1,
         "name": "Ahsoka Tano",
         "species": "Togruta",
-        "combatForm": [
-            ""
+        "rank": [
+            "http://localhost:3030/ranks/2"
+        ],
+        "styleForm": [
+            "http://localhost:3030/stylesForm/4",
+            "http://localhost:3030/stylesForm/5"
+        ],
+        "specialization": [
+            "http://localhost:3030/specializations/3",
+            "http://localhost:3030/specializations/6",
+            "http://localhost:3030/specializations/9",
+            "http://localhost:3030/specializations/13"
         ]
     },
     {
         "id": 2,
         "name": "Luke Skywalker",
-        "species": "Human"
+        "species": "Human",
+        "rank": [
+            "http://localhost:3030/ranks/2"
+        ],
+        "styleForm": [
+            "http://localhost:3030/stylesForm/3",
+            "http://localhost:3030/stylesForm/4",
+            "http://localhost:3030/stylesForm/5",
+            "http://localhost:3030/stylesForm/6"
+        ],
+        "specialization": [
+            "http://localhost:3030/specializations/4",
+            "http://localhost:3030/specializations/5",
+            "http://localhost:3030/specializations/7",
+            "http://localhost:3030/specializations/9",
+            "http://localhost:3030/specializations/12"
+        ]
     },
     {
         "id": 3,
         "name": "Jhuan Vekar Bel’tan",
-        "species": "Gungan"
+        "species": "Gungan",
+        "rank": [
+            "http://localhost:3030/ranks/4"
+        ],
+        "styleForm": [
+            "http://localhost:3030/stylesForm/3",
+            "http://localhost:3030/stylesForm/4",
+            "http://localhost:3030/stylesForm/5",
+            "http://localhost:3030/stylesForm/7"
+        ],
+        "specialization": [
+            "http://localhost:3030/specializations/1",
+            "http://localhost:3030/specializations/2",
+            "http://localhost:3030/specializations/3",
+            "http://localhost:3030/specializations/4",
+            "http://localhost:3030/specializations/5",
+            "http://localhost:3030/specializations/6",
+            "http://localhost:3030/specializations/8",
+            "http://localhost:3030/specializations/9",
+            "http://localhost:3030/specializations/13"
+        ]
     },
     {
         "id": 4,
         "name": "Andros Alfon Kresh",
-        "species": "Wookiees"
+        "species": "Wookiees",
+        "rank": [
+            "http://localhost:3030/ranks/4"
+        ],
+        "styleForm": [
+            "http://localhost:3030/stylesForm/3",
+            "http://localhost:3030/stylesForm/4",
+            "http://localhost:3030/stylesForm/5",
+            "http://localhost:3030/stylesForm/6"
+        ],
+        "specialization": [
+            "http://localhost:3030/specializations/1",
+            "http://localhost:3030/specializations/2",
+            "http://localhost:3030/specializations/3",
+            "http://localhost:3030/specializations/4",
+            "http://localhost:3030/specializations/5",
+            "http://localhost:3030/specializations/6",
+            "http://localhost:3030/specializations/8",
+            "http://localhost:3030/specializations/9",
+            "http://localhost:3030/specializations/13"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Yoda",
+        "species": "Desconocido",
+        "rank": [
+            "http://localhost:3030/ranks/5"
+        ],
+        "styleForm": [
+            "http://localhost:3030/stylesForm/3",
+            "http://localhost:3030/stylesForm/4",
+            "http://localhost:3030/stylesForm/7"
+        ],
+        "specialization": [
+            "http://localhost:3030/specializations/2",
+            "http://localhost:3030/specializations/8",
+            "http://localhost:3030/specializations/12"
+        ]
     }
 ]

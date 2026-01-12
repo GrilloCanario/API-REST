@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Lenguajes de Servicios de la HoloNet (PHP)",
+        "description": "Gestión de datos, servidores, sistemas administrativos galácticos"
+    },
+    {
+        "id": 2,
+        "name": "Programación de Núcleos de Droides y Sistemas Críticos (Java)",
+        "description": "IA, control de naves, sistemas de combate, estabilidad"
+    },
+    {
+        "id": 3,
+        "name": "Interfaces Holográficas Dinámicas (JavaScript)",
+        "description": "Paneles de control, hologramas interactivos, consolas táctiles"
+    },
+    {
+        "id": 4,
+        "name": "Lenguaje de Estructuración Holográfica (HTML)",
+        "description": "Estructuración de información en la HoloNet, organización de paneles de control y archivos Jedi, definición de jerarquías visuales en interfaces de naves y terminales"
+    },
+    {
+        "id": 5,
+        "name": "Protocolo de Estilo Holográfico Adaptativo (CSS)",
+        "description": "Estética de interfaces holográficas, adaptación visual a especies, resoluciones y entornos, control de colores, animaciones, legibilidad y ergonomía"
+    },
+    {
+        "id": 6,
+        "name": "Diplomacia y Asuntos Exteriores",
+        "description": "Mediación de conflictos y negociaciones"
+    },
+    {
+        "id": 7,
+        "name": "Archivos y Conocimiento",
+        "description": "Custodia del saber Jedi"
+    },
+    {
+        "id": 8,
+        "name": "Miembro del Consejo Jedi",
+        "descripcion": "Uno de los líderes supremos de la Orden Jedi, responsable de decisiones estratégicas."
+    },
+    {
+        "id": 9,
+        "name": "General Jedi",
+        "description": "Comandante militar Jedi durante las Guerras Clon al servicio de la República."
+    },
+    {
+        "id": 10,
+        "name": "Bibliotecario del Archivo Jedi",
+        "description": "Custodio del conocimiento, holocrones y registros históricos de la Orden."
+    },
+    {
+        "id": 11,
+        "name": "Jedi Guardián del Templo",
+        "description": "Responsable de la seguridad del Templo Jedi y de lugares sagrados."
+    },
+    {
+        "id": 12,
+        "name": "Jedi Consular",
+        "description": "Especialista en diplomacia, negociación y estudio profundo de la Fuerza."
+    },
+    {
+        "id": 13,
+        "name": "Jedi Centinela",
+        "description": "Jedi con habilidades prácticas, espionaje, tecnología y operaciones encubiertas."
+    }
+]

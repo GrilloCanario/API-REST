@@ -11,7 +11,7 @@ router.get('/', (req, res) => {
 //- Obtener / Mostrar Estilos
 router.get('/:id', (req, res) => {
     let id = req.params.id;
-    let styleForm = stylesForm.find(styleForm => styleForm.id == id);
+    let styleForm = stylesForm.find(s => s.id == id);
     if (styleForm){
         res.json(styleForm);
     } else {
@@ -22,7 +22,7 @@ router.get('/:id', (req, res) => {
 //-Eliminar un Estilos
 router.delete('/:id', (req, res) => {
     let id = req.params.id;
-    stylesForm = stylesForm.filter(styleForm => styleForm.id != id);
+    stylesForm = stylesForm.filter(s => s.id != id);
     res.status(204).json({msg: 'Estilo de combate eliminado'});
 })
 

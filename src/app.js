@@ -31,12 +31,13 @@ app.get('/', (req, res) => {
 app.use('/jedis', require('./routes/jedis'));
 
 //- RUTA RANGOS HACIA ROUTER-//
+app.use('/ranks', require('./routes/ranks'));
 
 //- RUTA FORMAS COMBATE HACIA ROUTER-//
 app.use('/stylesForm', require('./routes/stylesForm'));
 
 //- RUTA ESPECIALIZACIÓN HACIA ROUTER-//
-
+app.use('/specializations', require('./routes/specializations'));
 
 //- Para ver la API 
 app.listen(PORT, () => {
